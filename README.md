@@ -4,7 +4,7 @@ This repository is dedicated to documenting and sharing my development as a **Ba
 
 ## About Me
 
-My name is **Leonardo Arevalo**. I am currently studying **Computer Systems Engineering** with a strong focus on backend development using **Python**.
+My name is **Emmanuel Arevalo**. I am currently studying **Computer Systems Engineering** with a strong focus on backend development using **Python**.
 
 I work as a **Backend Developer**, developing projects that involve:
 
